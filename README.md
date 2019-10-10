@@ -1,1 +1,3 @@
-#lessons b1
+# lessons b1
+
+Mes cours sur introduction aux commandes Git
